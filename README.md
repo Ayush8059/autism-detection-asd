@@ -1,7 +1,7 @@
 # 🧠 Autism Support System (ASD Detection)
 
 ## 📌 Overview
-The Autism Support System is an AI-powered web application designed to detect autism in children using image analysis. It also provides activity recommendations and generates a PDF report to assist parents and caregivers.
+The Autism Support System is an AI-powered web application designed to detect autism in children from the age 4 to 6 using image analysis. It also provides activity recommendations and generates a PDF report to assist parents and caregivers.
 
 ---
 
