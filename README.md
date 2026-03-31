@@ -42,12 +42,6 @@ Due to GitHub size limitations, the dataset is hosted externally:
 - Input Size: 224x224
 - Output: Autistic / Non-Autistic
 
----
-
-## 📸 Output
-(Add screenshot here)
-
----
 
 ## ⚠️ Disclaimer
 This project is for educational purposes only and should not be used for medical diagnosis.
