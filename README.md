@@ -1,4 +1,4 @@
-#🧠 Autism Detection System (ASD)
+🧠 Autism Detection System (ASD)
 
 ## 📌 Overview
 This project is an AI-based Autism Detection System that predicts whether a child shows signs of autism using image analysis. It also recommends therapeutic activities.
