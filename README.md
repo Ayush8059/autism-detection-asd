@@ -1,14 +1,15 @@
-🧠 Autism Detection System (ASD)
+# 🧠 Autism Support System (ASD Detection)
 
 ## 📌 Overview
-This project is an AI-based Autism Detection System that predicts whether a child shows signs of autism using image analysis. It also recommends therapeutic activities.
+The Autism Support System is an AI-powered web application designed to detect autism in children using image analysis. It also provides activity recommendations and generates a PDF report to assist parents and caregivers.
 
 ---
 
 ## 🚀 Features
 - 🧠 Autism detection using Deep Learning (VGG16)
-- 📸 Image-based prediction
+- 📸 Image-based prediction system
 - 🎯 Activity recommendation system
+- 📄 Automatic PDF report generation
 - 🖥 User-friendly interface
 
 ---
@@ -16,13 +17,43 @@ This project is an AI-based Autism Detection System that predicts whether a chil
 ## 🛠 Tech Stack
 - Python
 - TensorFlow / Keras
-- NumPy, Pandas
 - Streamlit
+- NumPy, Pandas
 - Machine Learning
 
 ---
 
 ## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-python app.py
+
+pip install -r requirements.txt  
+streamlit run app.py  
+
+---
+
+## 📂 Dataset
+Due to GitHub size limitations, the dataset is hosted externally:
+
+👉 https://drive.google.com/drive/folders/122K01FErS6DtNBLrSecNoU9JceZLXJvI?usp=drive_link
+
+---
+
+## 🧠 Model
+- Model Used: VGG16 (Fine-tuned)
+- Input Size: 224x224
+- Output: Autistic / Non-Autistic
+
+---
+
+## 📸 Output
+(Add screenshot here)
+
+---
+
+## ⚠️ Disclaimer
+This project is for educational purposes only and should not be used for medical diagnosis.
+
+---
+
+## 👨‍💻 Author
+Ayush Raj  
+GitHub: https://github.com/Ayush8059
